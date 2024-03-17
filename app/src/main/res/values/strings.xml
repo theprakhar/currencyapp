@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="dropdown_hint">Select a currency</string>
+    <string name="amount_hint">Enter Amount</string>
+</resources>
